@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaibhavP712
+- 👋 Hi, I’m @vaibhavP712(Vaibhav Pratap Singh)
 - 👀 I’m interested in ...developing new things through coding to make our life easier 
 - 🌱 I’m currently learning ... computer language and python
 - 💞️ I’m looking to collaborate on ... creative programs especially in AI
